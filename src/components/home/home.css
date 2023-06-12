@@ -1,0 +1,29 @@
+body {
+  background: #170527 !important;
+}
+
+.container.signin-container {
+  margin-top: 8% !important;
+}
+
+.uploaded-image {
+  height: 220px;
+  background: #46345c;
+}
+
+label {
+  color: #fff;
+}
+
+input[type="text"],
+input[type="file"] {
+  background: #46345c !important;
+}
+
+.t-area {
+  background: #46345c !important;
+}
+
+hr {
+  color: #fff;
+}
